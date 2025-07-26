@@ -9,7 +9,6 @@ A web application that allows users to register, log in, and anonymously submit 
 - **Frontend**: EJS Templating
 - **Authentication**: Google OAuth 2.0, Express Session, Passport.js
 - **Database**: PostgreSQL
-- **ORM**: Sequelize (if used)
 - **Other Tools**: dotenv, bcrypt
 
 ---
